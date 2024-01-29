@@ -1,0 +1,14 @@
+D:\Uni\C#Final\DGD203\bin\Debug\net8.0\DGD203.exe
+D:\Uni\C#Final\DGD203\bin\Debug\net8.0\DGD203.deps.json
+D:\Uni\C#Final\DGD203\bin\Debug\net8.0\DGD203.runtimeconfig.json
+D:\Uni\C#Final\DGD203\bin\Debug\net8.0\DGD203.dll
+D:\Uni\C#Final\DGD203\bin\Debug\net8.0\DGD203.pdb
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.AssemblyInfoInputs.cache
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.AssemblyInfo.cs
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.csproj.CoreCompileInputs.cache
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.dll
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\refint\DGD203.dll
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.pdb
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\DGD203.genruntimeconfig.cache
+D:\Uni\C#Final\DGD203\obj\Debug\net8.0\ref\DGD203.dll
