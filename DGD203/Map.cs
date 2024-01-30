@@ -84,30 +84,30 @@ public class Map
         _locations = new Location[5];
 
         Vector2 SatanThroneLocation = new Vector2(-2,-2);
-        Location SatanThrone = new Location("","", LocationType.Combat, SatanThroneLocation);
+        Location SatanThrone = new Location("SatanThrone", "Demon Throne That Have The Most Powerful Demons", LocationType.Combat, SatanThroneLocation);
         _locations[0] = SatanThrone;
 
         Vector2 ChaosLocation = new Vector2();
-        Location Chaos = new Location("","", LocationType.City, ChaosLocation);
+        Location Chaos = new Location("Chaos", "There were some theif demons steal some souls from one other", LocationType.City, ChaosLocation);
         _locations[1] = Chaos;
 
         Vector2 DemonLocation = new Vector2();
         List<Item> DemonItem = new List<Item>();
         DemonItem.Add(Item.ring);
-        Location Demon = new Location("", "", LocationType.npc,DemonLocation, DemonItem);
+        Location Demon = new Location("Demon", "Demon cave here where some lonly demons", LocationType.npc,DemonLocation, DemonItem);
         _locations[2] = Demon;
 
-        Vector2 casterlyrockLocation = new Vector2();
-        List<Item> casterlyrockItem = new List<Item>();
-        casterlyrockItem.Add(Item.Coin);
-        Location casterlyrock = new Location("", "", LocationType.City, casterlyrockLocation, casterlyrockItem);
-        _locations[3] = casterlyrock;
+        Vector2 purgatoryLocation = new Vector2();
+        List<Item> purgatoryItem = new List<Item>();
+        purgatoryItem.Add(Item.Coin);
+        Location purgatory = new Location("purgatory", "A place for torturing some demons", LocationType.City, purgatoryLocation, purgatoryItem);
+        _locations[3] = purgatory;
 
-        Vector2 kingslandingLocation = new Vector2();
-        List<Item> kingslandingItem = new List<Item>();
-        kingslandingItem.Add(Item.Rune);
-        Location kingslanding = new Location("", "", LocationType.City, kingslandingLocation, kingslandingItem);
-        _locations[4] = kingslanding;
+        Vector2 infernoLocation = new Vector2();
+        List<Item> infernoItem = new List<Item>();
+        infernoItem.Add(Item.Rune);
+        Location inferno = new Location("inferno", "Here where Demons play with fire", LocationType.City, infernoLocation, infernoItem);
+        _locations[4] = inferno;
     }
 
     public void CheckForLocation(Vector2 coordinates)

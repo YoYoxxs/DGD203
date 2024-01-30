@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Uni\\C#Final\\DGD203\\DGD203.csproj": {}
+    "D:\\Uni\\GitHub\\C#\\DGD203\\DGD203\\DGD203.csproj": {}
   },
   "projects": {
-    "D:\\Uni\\C#Final\\DGD203\\DGD203.csproj": {
+    "D:\\Uni\\GitHub\\C#\\DGD203\\DGD203\\DGD203.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Uni\\C#Final\\DGD203\\DGD203.csproj",
+        "projectUniqueName": "D:\\Uni\\GitHub\\C#\\DGD203\\DGD203\\DGD203.csproj",
         "projectName": "DGD203",
-        "projectPath": "D:\\Uni\\C#Final\\DGD203\\DGD203.csproj",
+        "projectPath": "D:\\Uni\\GitHub\\C#\\DGD203\\DGD203\\DGD203.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Uni\\C#Final\\DGD203\\obj\\",
+        "outputPath": "D:\\Uni\\GitHub\\C#\\DGD203\\DGD203\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
